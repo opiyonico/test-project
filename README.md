@@ -1,2 +1,2 @@
 # test-project
-Sample Project for Git training for New Developer
+Test Project for developer training on Git workflow.
