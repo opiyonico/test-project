@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace MathConsoleApp
 {
     class Program
@@ -13,6 +12,9 @@ namespace MathConsoleApp
 
             int difference = mathFunctions.subtract(20, 10);
             Console.WriteLine(difference);
+
+            int multiply = mathFunctions.multiply(5, 10);
+            Console.WriteLine(multiply);
 
             Console.ReadKey();
         }
