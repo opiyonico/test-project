@@ -10,10 +10,5 @@ namespace MathConsoleApp
         {
             return value1 + value2;
         }
-
-        public int subtract(int a, int b)
-        {
-            return a - b;
-        }
     }
 }
