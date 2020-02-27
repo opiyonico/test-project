@@ -10,6 +10,5 @@ namespace MathConsoleApp
         {
             return value1 + value2;
         }
-
     }
 }
